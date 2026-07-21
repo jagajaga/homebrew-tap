@@ -2,7 +2,7 @@ class Fastcaps < Formula
   desc "Make Caps Lock a fast input-language switch key on macOS"
   homepage "https://github.com/jagajaga/macos-fast-caps-lock-switch"
   url "https://github.com/jagajaga/macos-fast-caps-lock-switch/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "7958ea5ba60cc8cb0b0fa89b02ffd8df13a46345bbfbb1baf28d677343910fc8"
+  sha256 "abfa27771554390ef7af6f9756d5ac1fc1cb2fd06d05a8bdc104729340807f2b"
   license "MIT"
 
   depends_on macos: :monterey
