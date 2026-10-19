@@ -1,6 +1,6 @@
 cask "wifi-bridge" do
-  version "0.2.0"
-  sha256 "df4796e003ba70dad2b246c7ad89a86178c9ecf236859ef6ba2f5731cebdd03c"
+  version "0.2.1"
+  sha256 "8bdbfd102b53fa86b298404baf0a355c3598ab36731d79b42343d05d8093482d"
 
   url "https://github.com/jagajaga/wifi-bridge/releases/download/v#{version}/WiFiBridge-#{version}-macos.zip"
   name "WiFi Bridge"
